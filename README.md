@@ -1,4 +1,5 @@
-# MasterCourse.P01
+![alt text](https://mastercourse.site/wp-content/uploads/2020/12/cropped-Mastercourseweblogo-07-1-e1615404376389-300x38.png)  
+
 Dokkho Data Science C1: Capstone Project 1
 ## Problem Statement
 ➔ Dynamic Web Scraping using Selenium  
